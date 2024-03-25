@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES2019",
+        "lib": ["dom", "ES2019"],
+        "module": "CommonJS",
+        "strict": true,
+        "jsx": "react",
+        "esModuleInterop": true
+    },
+    "include": ["src/**/*"]
+}
